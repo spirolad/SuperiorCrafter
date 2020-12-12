@@ -1,0 +1,6 @@
+name: SuperiorCrafter
+author: spirolad
+version: 1.0
+main: fr.spirolad.crafter.Crafter
+commands:
+  crafter:
